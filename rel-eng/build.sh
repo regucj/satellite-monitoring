@@ -31,3 +31,6 @@ cp rel-eng/satellite-monitoring.spec ~/rpmbuild/SPECS/
 
 # Build rpm
 rpmbuild -ba ~/rpmbuild/SPECS/satellite-monitoring.spec
+
+
+im just checking ! ........
